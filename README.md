@@ -1,3 +1,6 @@
+# Deployed Link 
+https://huggingface.co/spaces/iamitrao/Sonar-Dashboard
+
 # 🚀 Spain Music Lifecycle Intelligence
 
 **A data-driven analytics system to understand content maturity, lifecycle behavior, and playlist rotation dynamics in Spain’s Top 50 music charts.**
